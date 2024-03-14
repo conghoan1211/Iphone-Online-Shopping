@@ -1,0 +1,68 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 31, 2023, 4:35:00 PM
+    Author     : admin
+*/
+
+.filter {
+    border-bottom: 1px solid rgba(0,0,0,.09);
+    padding: 0 8px 16px 20px !important;
+}
+
+.filter-title {
+    font-size: 1.4rem;
+    color: rgba(0,0,0,.8);
+    display: block;
+    margin: 12px 0;
+}
+
+.filter-item {
+    display: flex;
+    align-items: center;
+    padding: 6px 0;
+}
+
+.filter-input {
+    margin: 0 8px 0 0 !important;
+    width: 14px;
+    height: 14px;
+    padding-right: 8px;
+    border: 0.4px solid rgba(0,0,0,.01);
+    border-radius: 2px;
+    box-shadow: inset 0 1px 0 0 rgba(0,0,0,.05);
+    cursor: pointer;
+}
+
+.filter-name {
+    color: rgba(0,0,0,.8);
+
+}
+
+.filter-input-number {
+    margin: 0 8px 0 0 !important;
+    width: 72px;
+    height: 30px;
+    font-size: 1.2rem;
+    padding: 2px 1px 2px 6px;
+    border: 1px solid rgba(0,0,0,.16);
+    border-radius: 2px;
+    outline: none;
+    box-shadow: inset 0 1px 0 0 rgba(0,0,0,.05);
+    cursor: pointer;
+}
+
+.filter-box-price {
+    /* justify-content: space-between; */
+    margin-bottom: 12px;
+    padding-top: 2px ;
+}
+
+.filter__btn {
+    width: 94%;
+    height: 30px;
+    line-height: 6px;
+    border-radius: 2px;
+}

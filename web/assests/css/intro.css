@@ -1,0 +1,15 @@
+.introduce {
+    font-size: 1.4rem;
+    color: var(--text-color);
+    margin-bottom: 50px;
+}
+
+.title-head {
+    margin: 40px 0;
+}
+
+.introduce-detail__item{
+    margin: 24px 0;
+    list-style: none;
+
+}
